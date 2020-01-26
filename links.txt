@@ -1,2 +1,3 @@
 https://www.jeroenmoonen.nl/blog/how-to/database-normaliseren-basisregels/
 
+https://www.lucidchart.com/pages/nl/wat-is-een-entity-relationship-diagram
