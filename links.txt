@@ -4,4 +4,4 @@ https://www.lucidchart.com/pages/nl/wat-is-een-entity-relationship-diagram
 
 kolom datatype key opt
 relatie toelichting
-businesstule toelichting
+businessrule toelichting
